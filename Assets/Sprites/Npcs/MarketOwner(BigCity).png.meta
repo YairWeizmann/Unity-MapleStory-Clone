@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: ffde69c30e7f747439cf5e8464f562c0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 883
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91959cf9b5aa50240a6e92e196efca25
+      internalID: 1382050567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 883
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdc662bc5f66d24fb6f15b5ddc4964d
+      internalID: 691398513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 883
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9709e66d023852448213bab56e968a4
+      internalID: -259380048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 883
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec7b647906928940bfafa3d732804c6
+      internalID: 1581005679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 883
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d837dc526b9d4254e962711f1641261a
+      internalID: -209505080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 711
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba6565cd553284ea538eb33ea6c13b
+      internalID: -1450830576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 711
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd649f5bb5c059148979ce2424209448
+      internalID: 231921976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 711
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ffbf5155c9fe74d830ed8913aff11a
+      internalID: -144831422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 711
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac8eb821b37e2e47a0a5e4d67948863
+      internalID: -1256766369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_63
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 711
+        width: 170
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5199f6714804e4d97b74d2f860e39b
+      internalID: 809266938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_71
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 541
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83054d035d3803948b09dd6f8e7b23f2
+      internalID: -96176587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_72
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 541
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c602a308036fb149bca30d7031e2681
+      internalID: 1078827880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_73
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 541
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7373262cf36d3884394c710640f77d31
+      internalID: -1707256177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_74
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 541
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd133fea4f2d8c4f8a3cca96758e4fe
+      internalID: 2094041702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_75
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 541
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84568f7db485ded468ca54df2c317b84
+      internalID: -1702096945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_76
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 540
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a324e7a48b1fae42b5c78b0c69a4345
+      internalID: 1022014678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_119
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 378
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e6e32673340884589c4edb886b7d82
+      internalID: 1967089699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_120
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 378
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1045e955d109ca14ea5112f8f9d28c1f
+      internalID: -827799687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_121
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 378
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b996e4db97319b45964b1d20503f922
+      internalID: -1227027301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_122
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 378
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d1c7aa803007241a0c3e066b8ddc91
+      internalID: 1729474312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_123
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 378
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68051de1fdca75c4b9f45a2a41d3ae0f
+      internalID: 1742758938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_144
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 206
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4269e51f3d07a094f9a55c01bbc31259
+      internalID: -1215178033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_145
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 206
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8430605b7404b4abb92d4267e46daa
+      internalID: 796098205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_146
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 206
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d458fdebfae50ca4ca8848f2b3f3a010
+      internalID: -2062815487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_147
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 206
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4271ddd8790c6fa4aa4551e0e83f9f0a
+      internalID: -1812587545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_148
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 204
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b800c17377b91448a5529ca0b44557
+      internalID: -1993914677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_170
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 36
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf00d33359dbf04791f9d404b7d0ddb
+      internalID: 980321837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_171
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 38
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba69e6f6f317b22499ebca1331d20572
+      internalID: 736572454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketOwner(BigCity)_172
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 38
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ccee1abfdb997479cc1756304ca0dc
+      internalID: -19402325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MarketOwner(BigCity)_0: 1382050567
+      MarketOwner(BigCity)_1: 691398513
+      MarketOwner(BigCity)_10: -1572277875
+      MarketOwner(BigCity)_100: 2058390743
+      MarketOwner(BigCity)_101: -433149740
+      MarketOwner(BigCity)_102: 74338751
+      MarketOwner(BigCity)_103: -1785425905
+      MarketOwner(BigCity)_104: 820023704
+      MarketOwner(BigCity)_105: -296152338
+      MarketOwner(BigCity)_106: 1423695451
+      MarketOwner(BigCity)_107: 1785602854
+      MarketOwner(BigCity)_108: 268623688
+      MarketOwner(BigCity)_109: -1222107390
+      MarketOwner(BigCity)_11: -2028424835
+      MarketOwner(BigCity)_110: 1934013811
+      MarketOwner(BigCity)_111: 795352294
+      MarketOwner(BigCity)_112: 1112123059
+      MarketOwner(BigCity)_113: 1651267743
+      MarketOwner(BigCity)_114: -2056749249
+      MarketOwner(BigCity)_115: -170077992
+      MarketOwner(BigCity)_116: 2104494519
+      MarketOwner(BigCity)_117: -948168236
+      MarketOwner(BigCity)_118: 2114564125
+      MarketOwner(BigCity)_119: 1967089699
+      MarketOwner(BigCity)_12: 598672497
+      MarketOwner(BigCity)_120: -827799687
+      MarketOwner(BigCity)_121: -1227027301
+      MarketOwner(BigCity)_122: 1729474312
+      MarketOwner(BigCity)_123: 1742758938
+      MarketOwner(BigCity)_124: -1981681283
+      MarketOwner(BigCity)_125: 1162391754
+      MarketOwner(BigCity)_126: 683958027
+      MarketOwner(BigCity)_127: -926362389
+      MarketOwner(BigCity)_128: 692067177
+      MarketOwner(BigCity)_129: -2111234005
+      MarketOwner(BigCity)_13: -1513508579
+      MarketOwner(BigCity)_130: 96564444
+      MarketOwner(BigCity)_131: 1440165790
+      MarketOwner(BigCity)_132: 1573521326
+      MarketOwner(BigCity)_133: 577843513
+      MarketOwner(BigCity)_134: 113123632
+      MarketOwner(BigCity)_135: 1044449280
+      MarketOwner(BigCity)_136: -2028943083
+      MarketOwner(BigCity)_137: 884791871
+      MarketOwner(BigCity)_138: 1169333410
+      MarketOwner(BigCity)_139: -220192433
+      MarketOwner(BigCity)_14: -530352089
+      MarketOwner(BigCity)_140: -223828061
+      MarketOwner(BigCity)_141: 635490781
+      MarketOwner(BigCity)_142: -199263008
+      MarketOwner(BigCity)_143: -1819182492
+      MarketOwner(BigCity)_144: -1215178033
+      MarketOwner(BigCity)_145: 796098205
+      MarketOwner(BigCity)_146: -2062815487
+      MarketOwner(BigCity)_147: -1812587545
+      MarketOwner(BigCity)_148: -1993914677
+      MarketOwner(BigCity)_149: 194491639
+      MarketOwner(BigCity)_15: -821349623
+      MarketOwner(BigCity)_150: -1737684178
+      MarketOwner(BigCity)_151: -985400133
+      MarketOwner(BigCity)_152: 1002934027
+      MarketOwner(BigCity)_153: -1615847829
+      MarketOwner(BigCity)_154: -2011551400
+      MarketOwner(BigCity)_155: 136662840
+      MarketOwner(BigCity)_156: 1475438552
+      MarketOwner(BigCity)_157: -345493419
+      MarketOwner(BigCity)_158: 990906182
+      MarketOwner(BigCity)_159: -1941749681
+      MarketOwner(BigCity)_16: 1156505625
+      MarketOwner(BigCity)_160: -1150574545
+      MarketOwner(BigCity)_161: 1830764084
+      MarketOwner(BigCity)_162: 1166055128
+      MarketOwner(BigCity)_163: 1610964258
+      MarketOwner(BigCity)_164: -819158687
+      MarketOwner(BigCity)_165: -881894924
+      MarketOwner(BigCity)_166: 2089742049
+      MarketOwner(BigCity)_167: 1379518197
+      MarketOwner(BigCity)_168: 583633
+      MarketOwner(BigCity)_169: -1561558055
+      MarketOwner(BigCity)_17: 1168826415
+      MarketOwner(BigCity)_170: 980321837
+      MarketOwner(BigCity)_171: 736572454
+      MarketOwner(BigCity)_172: -19402325
+      MarketOwner(BigCity)_173: 643172667
+      MarketOwner(BigCity)_174: -307138258
+      MarketOwner(BigCity)_175: -665734566
+      MarketOwner(BigCity)_176: -1100775894
+      MarketOwner(BigCity)_177: 965578436
+      MarketOwner(BigCity)_178: 1907832206
+      MarketOwner(BigCity)_179: -360252348
+      MarketOwner(BigCity)_18: -2130266268
+      MarketOwner(BigCity)_180: 1569374289
+      MarketOwner(BigCity)_181: 380299253
+      MarketOwner(BigCity)_182: 2104562891
+      MarketOwner(BigCity)_183: -2146472290
+      MarketOwner(BigCity)_184: 1310103462
+      MarketOwner(BigCity)_185: 1720977335
+      MarketOwner(BigCity)_186: 1043703367
+      MarketOwner(BigCity)_187: 1706124863
+      MarketOwner(BigCity)_19: 2142195038
+      MarketOwner(BigCity)_2: -259380048
+      MarketOwner(BigCity)_20: -1154718106
+      MarketOwner(BigCity)_21: 914625027
+      MarketOwner(BigCity)_22: 1476888869
+      MarketOwner(BigCity)_23: 614835354
+      MarketOwner(BigCity)_24: 1053113063
+      MarketOwner(BigCity)_25: 798329668
+      MarketOwner(BigCity)_26: 877551684
+      MarketOwner(BigCity)_27: -1422436257
+      MarketOwner(BigCity)_28: -1328854811
+      MarketOwner(BigCity)_29: -1801067478
+      MarketOwner(BigCity)_3: 1581005679
+      MarketOwner(BigCity)_30: 964155398
+      MarketOwner(BigCity)_31: 1779219081
+      MarketOwner(BigCity)_32: 855151500
+      MarketOwner(BigCity)_33: -564740890
+      MarketOwner(BigCity)_34: -1716336453
+      MarketOwner(BigCity)_35: -1450830576
+      MarketOwner(BigCity)_36: 133487847
+      MarketOwner(BigCity)_37: 1108724999
+      MarketOwner(BigCity)_38: 595554427
+      MarketOwner(BigCity)_39: -2004123005
+      MarketOwner(BigCity)_4: -209505080
+      MarketOwner(BigCity)_40: -1564368209
+      MarketOwner(BigCity)_41: -554498050
+      MarketOwner(BigCity)_42: 231921976
+      MarketOwner(BigCity)_43: -2102119440
+      MarketOwner(BigCity)_44: 1569228198
+      MarketOwner(BigCity)_45: 1508001179
+      MarketOwner(BigCity)_46: 1966161137
+      MarketOwner(BigCity)_47: 1457407060
+      MarketOwner(BigCity)_48: -241225581
+      MarketOwner(BigCity)_49: -144831422
+      MarketOwner(BigCity)_5: -1575116864
+      MarketOwner(BigCity)_50: 1158786228
+      MarketOwner(BigCity)_51: 1740987546
+      MarketOwner(BigCity)_52: -764794511
+      MarketOwner(BigCity)_53: 1275280599
+      MarketOwner(BigCity)_54: -1419118741
+      MarketOwner(BigCity)_55: -2007154428
+      MarketOwner(BigCity)_56: -1256766369
+      MarketOwner(BigCity)_57: 1807822687
+      MarketOwner(BigCity)_58: 828352463
+      MarketOwner(BigCity)_59: -302346220
+      MarketOwner(BigCity)_6: -1777199131
+      MarketOwner(BigCity)_60: 127738901
+      MarketOwner(BigCity)_61: -121982393
+      MarketOwner(BigCity)_62: 271945467
+      MarketOwner(BigCity)_63: 809266938
+      MarketOwner(BigCity)_64: 1489983086
+      MarketOwner(BigCity)_65: 1860764788
+      MarketOwner(BigCity)_66: 974484037
+      MarketOwner(BigCity)_67: 1481234175
+      MarketOwner(BigCity)_68: -384906429
+      MarketOwner(BigCity)_69: 392674516
+      MarketOwner(BigCity)_7: 1674926827
+      MarketOwner(BigCity)_70: -548833919
+      MarketOwner(BigCity)_71: -96176587
+      MarketOwner(BigCity)_72: 1078827880
+      MarketOwner(BigCity)_73: -1707256177
+      MarketOwner(BigCity)_74: 2094041702
+      MarketOwner(BigCity)_75: -1702096945
+      MarketOwner(BigCity)_76: 1022014678
+      MarketOwner(BigCity)_77: -1125355034
+      MarketOwner(BigCity)_78: -1379101891
+      MarketOwner(BigCity)_79: 224362805
+      MarketOwner(BigCity)_8: -1123384220
+      MarketOwner(BigCity)_80: 129558037
+      MarketOwner(BigCity)_81: -54280269
+      MarketOwner(BigCity)_82: 1933341998
+      MarketOwner(BigCity)_83: 225837911
+      MarketOwner(BigCity)_84: 1210394306
+      MarketOwner(BigCity)_85: -326313899
+      MarketOwner(BigCity)_86: -1562524178
+      MarketOwner(BigCity)_87: -951702087
+      MarketOwner(BigCity)_88: 28463341
+      MarketOwner(BigCity)_89: -1401079138
+      MarketOwner(BigCity)_9: 220324554
+      MarketOwner(BigCity)_90: 778611578
+      MarketOwner(BigCity)_91: -2075743383
+      MarketOwner(BigCity)_92: -701286003
+      MarketOwner(BigCity)_93: -669193020
+      MarketOwner(BigCity)_94: 1194824597
+      MarketOwner(BigCity)_95: -1855123600
+      MarketOwner(BigCity)_96: -183142867
+      MarketOwner(BigCity)_97: -1867848105
+      MarketOwner(BigCity)_98: -1422111036
+      MarketOwner(BigCity)_99: -1721280810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

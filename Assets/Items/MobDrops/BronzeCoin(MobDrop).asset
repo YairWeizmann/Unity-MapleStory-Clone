@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f3ba0a7ce31b94a8a9e804c8b9d0fc, type: 3}
+  m_Name: BronzeCoin(MobDrop)
+  m_EditorClassIdentifier: 
+  type: 4
+  actionType: 3
+  range: {x: 5, y: 4}
+  itemName: Brone Coin
+  itemDesc: Coin dropped by foes. Worth a small amount but can add up.
+  StackAble: 1
+  Image: {fileID: -1115360698, guid: 1885701f1c9101f4a9d8b162615dfd42, type: 3}
+  ItemId: 0

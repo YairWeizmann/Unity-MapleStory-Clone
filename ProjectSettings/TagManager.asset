@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - MobDrop
+  - Ladder
+  - PlayerCamera
+  - Npc
+  - ShopNpc
+  - ShopCanvas
+  - Weapon
+  - Skill
+  - Armor
+  - Portal
+  - PlayerCamera2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - PostProcessing
+  - Ladder
+  - MiniMap
+  - Player
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 534980175
+    locked: 0
+  - name: Images
+    uniqueID: 1053645015
+    locked: 0

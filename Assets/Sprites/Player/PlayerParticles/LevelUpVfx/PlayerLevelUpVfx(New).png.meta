@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: 5284d22ba143fc1479969d505541ec3e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_0
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1454
+        width: 106
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7aa6142942cb04992f4a96da18b351
+      internalID: 772087161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1450
+        width: 126
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeeb7d2802a3c4428300033db7dc325
+      internalID: 122521524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_2
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1451
+        width: 136
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7f4aa0e902fc947bd2c2926b7f05c4
+      internalID: 1694090975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_3
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1455
+        width: 145
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec9947bec43794418005dcebeb55106
+      internalID: 1494839016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_4
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1453
+        width: 165
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67387c670fc560f4684923e0093bb92e
+      internalID: 1886862304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1103
+        width: 163
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c525e7e00cf1f046912a3719bc4736a
+      internalID: -1384175166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_6
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1103
+        width: 181
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0c47fcd261c33438f9edb55c613bd0
+      internalID: -1228719593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_7
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1103
+        width: 179
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cecd72c64b6f64ca0ad8d23cbd4bcd
+      internalID: 409366345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_8
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1100
+        width: 198
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53704f0006d267f499490c1619182f6c
+      internalID: 30988965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_9
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 1091
+        width: 199
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53f51b19f5781a47834b277d5c8b4f6
+      internalID: -982853373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 700
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd2c14558ec36346bf9e707f52d1bb7
+      internalID: 143220956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_11
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 701
+        width: 240
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046d141b97a444242bb5303c246c6331
+      internalID: 1151704873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_12
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 701
+        width: 307
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dadf7c392733c458d25856a893c6de
+      internalID: -1396569044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_13
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 705
+        width: 389
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283fdd27530911442bcf950eb8ebed07
+      internalID: -1622813290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_16
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 704
+        width: 441
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdb5813249f048488997535c4614fba
+      internalID: -2005609677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 465
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fd64b090fda864d8133e23976c4b04
+      internalID: 1383104974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 397
+        width: 469
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037d374665fe2b2469bca159a734741d
+      internalID: 1122358882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_24
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 403
+        width: 481
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c03358c631d3349bdf9152fa1b8ebf
+      internalID: -1885486952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_26
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 404
+        width: 448
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2c091a80d07194d91e87c5c7f237e3
+      internalID: -446756695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_27
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 404
+        width: 195
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdd5f166efce9e4db6cacfee7b43fca
+      internalID: 1623270718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevelUpVfx(New)_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 56
+        width: 194
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0ad9fbdde5d224b9528732618f7aca
+      internalID: 1690517853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayerLevelUpVfx(New)_0: 772087161
+      PlayerLevelUpVfx(New)_1: 122521524
+      PlayerLevelUpVfx(New)_10: 143220956
+      PlayerLevelUpVfx(New)_11: 1151704873
+      PlayerLevelUpVfx(New)_12: -1396569044
+      PlayerLevelUpVfx(New)_13: -1622813290
+      PlayerLevelUpVfx(New)_14: 133913242
+      PlayerLevelUpVfx(New)_15: -1200236654
+      PlayerLevelUpVfx(New)_16: -2005609677
+      PlayerLevelUpVfx(New)_17: 1707566243
+      PlayerLevelUpVfx(New)_18: -23052326
+      PlayerLevelUpVfx(New)_19: -446845684
+      PlayerLevelUpVfx(New)_2: 1694090975
+      PlayerLevelUpVfx(New)_20: 1906537587
+      PlayerLevelUpVfx(New)_21: -705106714
+      PlayerLevelUpVfx(New)_22: 1383104974
+      PlayerLevelUpVfx(New)_23: 1122358882
+      PlayerLevelUpVfx(New)_24: -1885486952
+      PlayerLevelUpVfx(New)_25: 354831953
+      PlayerLevelUpVfx(New)_26: -446756695
+      PlayerLevelUpVfx(New)_27: 1623270718
+      PlayerLevelUpVfx(New)_28: 739760494
+      PlayerLevelUpVfx(New)_29: 971363090
+      PlayerLevelUpVfx(New)_3: 1494839016
+      PlayerLevelUpVfx(New)_30: -214484068
+      PlayerLevelUpVfx(New)_31: 1706660828
+      PlayerLevelUpVfx(New)_32: 1167803022
+      PlayerLevelUpVfx(New)_33: 201134979
+      PlayerLevelUpVfx(New)_34: 1690517853
+      PlayerLevelUpVfx(New)_35: 423894779
+      PlayerLevelUpVfx(New)_36: 196285178
+      PlayerLevelUpVfx(New)_4: 1886862304
+      PlayerLevelUpVfx(New)_5: -1384175166
+      PlayerLevelUpVfx(New)_6: -1228719593
+      PlayerLevelUpVfx(New)_7: 409366345
+      PlayerLevelUpVfx(New)_8: 30988965
+      PlayerLevelUpVfx(New)_9: -982853373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

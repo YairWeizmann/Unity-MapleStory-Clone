@@ -1,0 +1,1281 @@
+fileFormatVersion: 2
+guid: c82ee0138cda6274aa3ea465f5d7c4e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CityBackground_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7023
+        width: 1013
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e294daf9b4eb6ed43b39dc6b4898a7a6
+      internalID: -2003760570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6735
+        width: 841
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a17f0fd47fce9f45bdbf2b0c5ca2f82
+      internalID: 1676885412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_3
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 6569
+        width: 220
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933f28c0cfa188f41b7d47d54394c8cf
+      internalID: -372545968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6568
+        width: 440
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81929820f9cdba949b23629f20f346bb
+      internalID: 887340888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6568
+        width: 409
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922369ea1c5afab47ba0b72d36276d25
+      internalID: 1502457524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6185
+        width: 79
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c54710a4e619e4586cbe884e8f6549
+      internalID: -126147737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6185
+        width: 79
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762409603bba8a04a8f4b96be83c9756
+      internalID: 1320861940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 6186
+        width: 95
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b6f5202f297f44981316506ab869ba
+      internalID: -1073935565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 6184
+        width: 245
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c7e7667ba4e8e46b556923da3e1bf8
+      internalID: -672990765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 6185
+        width: 123
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acfe8fd3de026544af3d00b290a43cc
+      internalID: 287261362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_11
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 6186
+        width: 293
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4128e7f6bd4574199198fdf0130d16
+      internalID: -1031736873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5662
+        width: 105
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91e00f5ae238f64c8bcf53c1fa30506
+      internalID: 1111529515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5663
+        width: 105
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb511a8367d06247ae7d4189fd03567
+      internalID: 976004087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 5663
+        width: 126
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87222570718f2074e9e227041280b7f5
+      internalID: -2005579880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 5663
+        width: 326
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c82d7c37140ad40a0f90672ca9f097
+      internalID: 199866715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_16
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 5662
+        width: 164
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f527be442f1c64468ec0a02896e89e3
+      internalID: -630436838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_17
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 5266
+        width: 60
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0551c8351451d4089f3239e2946cae
+      internalID: 536681775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5106
+        width: 330
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9205c49cbffcb4458dc08846238f34c
+      internalID: -1994846456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 5107
+        width: 118
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff8f8a831555984097f08ce659934ba
+      internalID: -755107610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5106
+        width: 117
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5007da2af8248479a5cf0f46324d45
+      internalID: -687085984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 5107
+        width: 141
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea856cc9fe5f4c4984a91ff5190f301
+      internalID: 1410086129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4653
+        width: 366
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ad3575d50008e4695fe275bd6f4867
+      internalID: 1585998815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 4654
+        width: 184
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78abe22aa75084b48b1de77c7015023f
+      internalID: -710482410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_24
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 4653
+        width: 178
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4849505aa70eff4c8213f40fc7897bd
+      internalID: 1139455754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_25
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 4653
+        width: 276
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cbdb08e1fb6254f89b748cdd15112a
+      internalID: 1727979589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4323
+        width: 216
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5840b850b0e0a40b199a9c8df494bb
+      internalID: 2118576774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 4323
+        width: 193
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b529b1d2ab9114aab552edb3acfce7
+      internalID: 959789634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_28
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 4323
+        width: 236
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f7f717b1e239d4caf37db3de9ce711
+      internalID: -399790017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_29
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 4323
+        width: 268
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aa61ccd5c970b4f83211bdd349ee6d
+      internalID: 23874170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3896
+        width: 1177
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c64dc95d5162d41a19175e782ca2cc
+      internalID: 781221506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3779
+        width: 895
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1ba5dfe9d3e34cb8e88d2bbdb53b1
+      internalID: -1863352475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_32
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 3652
+        width: 215
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61c06752e0b3e347bb3742e1e5c8748
+      internalID: 1193346023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3667
+        width: 215
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d713d85b860e748be9ab821befc42c
+      internalID: -1931740042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_34
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3670
+        width: 247
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21367813c8167b4f8cb1b6401fbd673
+      internalID: 1903604281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3527
+        width: 667
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d2a05c70622c643a7585a2b412f84a
+      internalID: 35439935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3270
+        width: 180
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c76920f270d864cbda9e17937b0f81
+      internalID: 1864057362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3270
+        width: 180
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4892dca7e437624980f970d80343e9d
+      internalID: 1223499397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3270
+        width: 180
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c6a2f9e436b904dbabe08b2c05f85d
+      internalID: -12388572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3132
+        width: 273
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e239ceddb690c444abb315b1845e312
+      internalID: -212260426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_40
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3132
+        width: 273
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d080a9a7ef9d841b65a4cd2293d6f5
+      internalID: -2009460410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_41
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 3132
+        width: 273
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70083429fa6fb164e92332d55b53c217
+      internalID: -807693433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_42
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2986
+        width: 273
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8a531fab3ad8d4d8b0c7e7bfefe793
+      internalID: -1522537813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_43
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2986
+        width: 273
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8ada247063c574ba8192a0a805057b
+      internalID: 432486220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_44
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2986
+        width: 273
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748297bcd365bb6479ed4110894f6930
+      internalID: 1166613309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2834
+        width: 273
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae54e06a501af04dbd7b12acafe1581
+      internalID: 183489774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_46
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2834
+        width: 273
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719a2643d0df4c74b8518559d5487ed4
+      internalID: 263588476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_47
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2834
+        width: 273
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51642222cc879484685fcce48b15786b
+      internalID: 490722955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_49
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1595
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399ec8ebf1fd30b4f8cfd50f6fc10775
+      internalID: 1173563629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_50
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1708
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2412eb09f434838478c71e471a3369a3
+      internalID: 1243893183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_52
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1633
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2768c2fb7c0542446a010fcfd0f6dc05
+      internalID: 909926606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1543
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7606105cc778b4a98c69920a2b9b56
+      internalID: 928999169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityBackground_1
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2641
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534a5e7a990953145b63f2442123debc
+      internalID: 641655945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CityBackground_0: -2003760570
+      CityBackground_1: 641655945
+      CityBackground_10: 287261362
+      CityBackground_11: -1031736873
+      CityBackground_12: 1111529515
+      CityBackground_13: 976004087
+      CityBackground_14: -2005579880
+      CityBackground_15: 199866715
+      CityBackground_16: -630436838
+      CityBackground_17: 536681775
+      CityBackground_18: -1994846456
+      CityBackground_19: -755107610
+      CityBackground_2: 1676885412
+      CityBackground_20: -687085984
+      CityBackground_21: 1410086129
+      CityBackground_22: 1585998815
+      CityBackground_23: -710482410
+      CityBackground_24: 1139455754
+      CityBackground_25: 1727979589
+      CityBackground_26: 2118576774
+      CityBackground_27: 959789634
+      CityBackground_28: -399790017
+      CityBackground_29: 23874170
+      CityBackground_3: -372545968
+      CityBackground_30: 781221506
+      CityBackground_31: -1863352475
+      CityBackground_32: 1193346023
+      CityBackground_33: -1931740042
+      CityBackground_34: 1903604281
+      CityBackground_35: 35439935
+      CityBackground_36: 1864057362
+      CityBackground_37: 1223499397
+      CityBackground_38: -12388572
+      CityBackground_39: -212260426
+      CityBackground_4: 887340888
+      CityBackground_40: -2009460410
+      CityBackground_41: -807693433
+      CityBackground_42: -1522537813
+      CityBackground_43: 432486220
+      CityBackground_44: 1166613309
+      CityBackground_45: 183489774
+      CityBackground_46: 263588476
+      CityBackground_47: 490722955
+      CityBackground_48: 1705565818
+      CityBackground_49: 1173563629
+      CityBackground_5: 1502457524
+      CityBackground_50: 1243893183
+      CityBackground_51: -1203848195
+      CityBackground_52: 909926606
+      CityBackground_53: 928999169
+      CityBackground_54: -1758598849
+      CityBackground_55: -686717867
+      CityBackground_56: -243628144
+      CityBackground_57: -2040740464
+      CityBackground_58: -126879964
+      CityBackground_59: 49583049
+      CityBackground_6: -126147737
+      CityBackground_60: 1466969645
+      CityBackground_61: -2058482131
+      CityBackground_7: 1320861940
+      CityBackground_8: -1073935565
+      CityBackground_9: -672990765
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

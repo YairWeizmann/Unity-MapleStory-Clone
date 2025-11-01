@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: c8ab4a31fb543ad42b15f2a87db1dcd3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerDashForward(Pink)_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 244
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800efd9fe3dbd3e4f989239118a3a753
+      internalID: 1219110860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDashForward(Pink)_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 237
+        width: 110
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcfdba856b1a854c9899428afde9f87
+      internalID: -1638561339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDashForward(Pink)_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 235
+        width: 116
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8682f56718b2846ae5eb10fea0a654
+      internalID: -1465313666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDashForward(Pink)_3
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 233
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e689bafdc7ade429c912862fb8ea24
+      internalID: 1239615275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDashForward(Pink)_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 236
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeccaa726aecd543b739e9fa8a79852
+      internalID: 1380849357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDashForward(Pink)_6
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 232
+        width: 136
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a42fd4c6c076e46b3885bb91200bfb
+      internalID: -702519783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDashForward(Pink)_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 123
+        width: 127
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183a63cafcb5ec942b024a303d984d41
+      internalID: -1826768741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDashForward(Pink)_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 123
+        width: 129
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf14b359c5a5d468e3b61dd39163a8
+      internalID: 1526086500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDashForward(Pink)_14
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 123
+        width: 130
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a242e0d3fcae5be40b8ed469d6c17908
+      internalID: -64305656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDashForward(Pink)_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 130
+        width: 137
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfa55107eff9624dabb1a5db849a7e0
+      internalID: -1893882017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDashForward(Pink)_27
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 135
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce93e7310207c43a372ef3e4adf783
+      internalID: -753177801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDashForward(Pink)_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd6b283c4a7d2f46bb448bc0a63933a
+      internalID: -1009478052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDashForward(Pink)_16
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 129
+        width: 102
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a63d4ee25a063843bf7089d821135e9
+      internalID: 662941975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayerDashForward(Pink)_0: 1219110860
+      PlayerDashForward(Pink)_1: -1638561339
+      PlayerDashForward(Pink)_10: 1344455950
+      PlayerDashForward(Pink)_11: -190352608
+      PlayerDashForward(Pink)_12: -1826768741
+      PlayerDashForward(Pink)_13: 1526086500
+      PlayerDashForward(Pink)_14: -64305656
+      PlayerDashForward(Pink)_15: -1893882017
+      PlayerDashForward(Pink)_16: 662941975
+      PlayerDashForward(Pink)_17: 1811108986
+      PlayerDashForward(Pink)_18: -371572803
+      PlayerDashForward(Pink)_19: 1770856773
+      PlayerDashForward(Pink)_2: -1465313666
+      PlayerDashForward(Pink)_20: -767583967
+      PlayerDashForward(Pink)_21: -1949153069
+      PlayerDashForward(Pink)_22: -627198735
+      PlayerDashForward(Pink)_23: -911380607
+      PlayerDashForward(Pink)_24: -1574590705
+      PlayerDashForward(Pink)_25: 1916394799
+      PlayerDashForward(Pink)_26: 1787055797
+      PlayerDashForward(Pink)_27: -753177801
+      PlayerDashForward(Pink)_28: -1503285194
+      PlayerDashForward(Pink)_29: 259913080
+      PlayerDashForward(Pink)_3: 1239615275
+      PlayerDashForward(Pink)_30: -1863931363
+      PlayerDashForward(Pink)_31: 322237042
+      PlayerDashForward(Pink)_32: -1051873646
+      PlayerDashForward(Pink)_33: -1379679915
+      PlayerDashForward(Pink)_34: -1009478052
+      PlayerDashForward(Pink)_35: 814269310
+      PlayerDashForward(Pink)_36: -926697889
+      PlayerDashForward(Pink)_37: 375407439
+      PlayerDashForward(Pink)_38: 66256622
+      PlayerDashForward(Pink)_39: 1220175287
+      PlayerDashForward(Pink)_4: 1074920028
+      PlayerDashForward(Pink)_40: 258628461
+      PlayerDashForward(Pink)_5: 1380849357
+      PlayerDashForward(Pink)_6: -702519783
+      PlayerDashForward(Pink)_7: -530624629
+      PlayerDashForward(Pink)_8: -1200344302
+      PlayerDashForward(Pink)_9: -1626337674
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

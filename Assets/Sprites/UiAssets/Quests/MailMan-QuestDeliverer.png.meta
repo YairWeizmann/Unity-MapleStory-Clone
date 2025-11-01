@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: b7e9be362b7ac0e42b01a055d671891e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 271
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2350272d69c59294bb9fd61c62ac045b
+      internalID: 1409532749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 270
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788d3cefd66971d46b4216b04ecf1af5
+      internalID: -2024318324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 271
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c01820d4020d14d90c8c80b0e6026d
+      internalID: -1982818013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 182
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2755eca83dd1df48ad2b8cab23aad75
+      internalID: 143616608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 182
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8e629a7c6a48f4794657a470d723ce
+      internalID: -1463391514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 182
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11fdf9bd8017cd43b0b7b2bf3621c40
+      internalID: -1053265798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 182
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0209e7193eb7c4aafb73ab0fc5bc66
+      internalID: 1852648937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 182
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa45d23764031e46ac865dbc528f284
+      internalID: -1083988914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 90
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee703c32f0e06cd4aa5e90e6d38a15d7
+      internalID: -1082989282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 90
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09374ecd9203c640b83579db1b6644f
+      internalID: 1542345481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 90
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd5db578a14fd41a23b8c8e2b3ddf1
+      internalID: -1025046858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 90
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daef88036f3f36d438d497494f97361e
+      internalID: 2047660292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_12
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 90
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570c1482f890f1a47bb6893338f01228
+      internalID: 698690590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 90
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b84ba638e020f4d949f8f4a4a7ef52
+      internalID: -181242751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailMan-QuestDeliverer_14
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 90
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72767adf2f47d04e820320c836369f8
+      internalID: 1596075266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MailMan-QuestDeliverer_0: 1409532749
+      MailMan-QuestDeliverer_1: -2024318324
+      MailMan-QuestDeliverer_10: -1025046858
+      MailMan-QuestDeliverer_11: 2047660292
+      MailMan-QuestDeliverer_12: 698690590
+      MailMan-QuestDeliverer_13: -181242751
+      MailMan-QuestDeliverer_14: 1596075266
+      MailMan-QuestDeliverer_15: 1574093821
+      MailMan-QuestDeliverer_16: 74061878
+      MailMan-QuestDeliverer_17: 701001889
+      MailMan-QuestDeliverer_18: 1415156113
+      MailMan-QuestDeliverer_19: -314360317
+      MailMan-QuestDeliverer_2: -1982818013
+      MailMan-QuestDeliverer_20: -1962463012
+      MailMan-QuestDeliverer_21: -2129835109
+      MailMan-QuestDeliverer_22: 85314411
+      MailMan-QuestDeliverer_23: 1264781731
+      MailMan-QuestDeliverer_24: 438420734
+      MailMan-QuestDeliverer_25: 979685306
+      MailMan-QuestDeliverer_26: -1777797957
+      MailMan-QuestDeliverer_27: -1960156939
+      MailMan-QuestDeliverer_3: 143616608
+      MailMan-QuestDeliverer_4: -1463391514
+      MailMan-QuestDeliverer_5: -1053265798
+      MailMan-QuestDeliverer_6: 1852648937
+      MailMan-QuestDeliverer_7: -1083988914
+      MailMan-QuestDeliverer_8: -1082989282
+      MailMan-QuestDeliverer_9: 1542345481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
