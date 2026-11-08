@@ -36,17 +36,17 @@ The multiplayer system follows a host-client architecture, where one player host
 
 ## Screenshots
 
+
+### Main Menu
+![MapleStory Main Menu](MapleStoryHome.jpeg)
+
 ### Gameplay
-![MapleStory Gameplay](gameplay.png)
+![MapleStory Gameplay](MapleStoryImage3.jpeg)
 
-### Multiplayer
-![MapleStory Multiplayer](multiplayer.png)
+### Additional Screenshots
+![MapleStory Screenshot 1](MapleStoryScreenShot1.jpeg)
 
-### Inventory
-![MapleStory Inventory](combat.png)
-
-### Task System
-![MapleStory Task System](combat.png)
+![MapleStory Screenshot 2](MapleStoryScreenShot2.jpeg)
 
 ## Running the Project
 
